@@ -1,0 +1,4 @@
+Flask==3.0.3
+google_api_python_client==2.142.0
+protobuf==5.28.1
+yt_dlp==2024.8.6
